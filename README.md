@@ -10,7 +10,7 @@ Start by forking this repository. If you're working as a team, only one person n
 
 The repository should already contain a subdirectory named after your team. **All your project files must be contained within your team's subdirectory**. If you make any changes to files other than those in your team folder, we will not be able to merge your PR, and may have to disqualify your submission.
 
-We are aware some CI/CD solutions require you to have configuration files/folders in the root of the repository; if you're using one of those, either try to use a unique name (e.g. prefix the configuration files with your team name) or remove the files/directories just before the end of the jam.
+If you're using any CI/CD solutions which require you to have configuration files/folders in the root of the repository either try to use a unique name (e.g. prefix the configuration files with your team name) or remove the files/directories just before the end of the jam.
 
 ### 3. Create a pull request
 
@@ -25,7 +25,7 @@ If you are working as a team, you should consider learning about feature branche
 ## Things to keep in mind
 
 ### Your project should be easy to set-up
-You should make sure your project is easy to set up for us, the reviewers. Ideally, it should not take us more than a few steps to get your project up and running, and those steps should be well-documented in your project’s README file. Consider using dependency management tools, like `pipenv` and `npm`, to make installing the dependencies of your projects as easy as possible. We would also encourage you to use `docker` and `docker-compose` to containerize your project, but this isn't a requirement.
+Consider using dependency management tools like pipenv, to make installing the dependencies of your projects as easy as possible. But it isn't a requirement you can also use a simple requirements.txt
 
 ### All projects will be merged into this repository
 Your project will be merged into this repository at the end of the jam. This means that your project will stay available after the jam ends and that you'll get contributions credits for this repository on your GitHub-account. Do keep in mind that this repository is licensed under the [MIT open source license], which means that all the code and assets you submit for the Code Jam should be compatible with that license. In addition, please make sure to provide credit to the source of all third-party assets, even if the license does not require you to do so. 
