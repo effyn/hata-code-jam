@@ -35,3 +35,5 @@ Your project has to include documentation. At the very least, it should include 
 
 ### The main language of your project should be English
 As English is the only language the judges share, we require you to use English as the main language for your project. This means that your variable names, code comments, `git` commit messages, and documentation should all be in English. The text displayed in your bot application should also be in English, although you are allowed to provide the user with options for internationalization and translation.
+
+[MIT open source license]: https://opensource.org/licenses/MIT
