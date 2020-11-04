@@ -1,14 +1,10 @@
-[![Discord](https://img.shields.io/static/v1?label=Python%20Discord&logo=discord&message=%3E40k%20members&color=%237289DA&logoColor=white)](https://discord.gg/2B963hn)
-[![License](https://img.shields.io/github/license/python-discord/bot)](LICENSE)
-[![Website](https://img.shields.io/badge/website-visit-brightgreen)][7]
-
-### Hata CodeJam!
+# Hata CodeJam!
 
 ## Getting Started
 
 ### 1. Fork this repository
 
-Start by [forking this repository][3]. If you're working as a team, only one person needs to do this.
+Start by forking this repository. If you're working as a team, only one person needs to do this.
 
 ### 2. Find your team folder in the repository
 
@@ -34,10 +30,8 @@ You should make sure your project is easy to set up for us, the reviewers. Ideal
 ### All projects will be merged into this repository
 Your project will be merged into this repository at the end of the jam. This means that your project will stay available after the jam ends and that you'll get contributions credits for this repository on your GitHub-account. Do keep in mind that this repository is licensed under the [MIT open source license], which means that all the code and assets you submit for the Code Jam should be compatible with that license. In addition, please make sure to provide credit to the source of all third-party assets, even if the license does not require you to do so. 
 
-Please also make sure you follow the instructions in the [Getting Started](#getting-started) section. We can't merge Pull Requests that (would) create conflicts with the submissions of the other teams.
-
 ### Write a good README
-Your project has to include documentation. At the very least, it should include instructions on how to set-up and run your projects, but keep in mind that a README is the first thing people typically see when they look at a project on GitHub. A good README includes a short description of the project, installation instructions, and often documents common usage of the application. Browse the team folders in the [Winter Code Jam 2020 repository][4] to get an idea of the kind of READMEs commonly included in Code Jam projects.
+Your project has to include documentation. At the very least, it should include instructions on how to set-up and run your projects, but keep in mind that a README is the first thing people typically see when they look at a project on GitHub. A good README includes a short description of the project, installation instructions, and often documents common usage of the application.
 
 ### The main language of your project should be English
 As English is the only language the judges share, we require you to use English as the main language for your project. This means that your variable names, code comments, `git` commit messages, and documentation should all be in English. The text displayed in your bot application should also be in English, although you are allowed to provide the user with options for internationalization and translation.
