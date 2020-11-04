@@ -25,8 +25,7 @@ If you are working as a team, you should consider learning about feature branche
 ## Things to keep in mind
 
 ### Your project should be easy to set-up
-Consider using dependency management tools like pipenv, to make installing the dependencies of your projects as easy as possible. But it isn't a requirement you can also use a simple requirements.txt
-
+Consider using dependency management tools like pipenv, to make installing the dependencies of your projects as easy as possible. But it isn't a requirement, you can also use a simple requirements.txt - but in that case be sure to note the used Python version somewhere in the readme.
 ### All projects will be merged into this repository
 Your project will be merged into this repository at the end of the jam. This means that your project will stay available after the jam ends and that you'll get contributions credits for this repository on your GitHub-account. Do keep in mind that this repository is licensed under the [MIT open source license], which means that all the code and assets you submit for the Code Jam should be compatible with that license. In addition, please make sure to provide credit to the source of all third-party assets, even if the license does not require you to do so. 
 
