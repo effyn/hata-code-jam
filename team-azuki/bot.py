@@ -1,11 +1,9 @@
 import os
 import pathlib
-
 from datetime import datetime
 
 import dotenv
 import hata
-
 
 dotenv.load_dotenv()
 
