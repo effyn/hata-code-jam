@@ -9,9 +9,11 @@ dotenv.load_dotenv()
 
 azuki = hata.Client(os.getenv('token'))
 
+
 @azuki.events
 async def ready(client):
     print(f'{client:f} logged in.')
+
 
 @azuki.events
 async def message_create(client, message: hata.discord.Message):
